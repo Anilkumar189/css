@@ -1,0 +1,40 @@
+.a{
+    background-color: blue;
+    width:100%;
+}
+.b{
+    display: flex;
+    padding:10px;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+.c{
+    display: flex;
+    margin-top: 10px;
+    background-color: rgb(58, 96, 129);
+    width:100%;
+    justify-content: space-evenly;
+    padding: 10px;
+
+}
+.f{
+    display: flex;
+    width:100%;
+    justify-content: space-evenly;
+    padding:10px;
+
+}
+.x{
+    border: 10px solid whitesmoke;
+}
+.f{
+    display:flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding:10px;
+}
+.z{
+    height: 150px;
+}

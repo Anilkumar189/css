@@ -1,0 +1,80 @@
+.b{
+    width:50%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+}
+.d{
+    width:10%;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: -2px;
+    text-align: right;
+}
+.c{
+    text-align: right;
+}
+.q{
+    background-color: blue;
+    position: sticky;
+    top:0px;
+    left:0px;
+}
+.e{
+    text-align: center;
+    padding: 30px;
+    background-image: url("kumar.jpeg");
+    height:600px;
+    background-repeat:no-repeat;
+background-size: cover;
+}
+.z i{
+ color: orangered;
+ font-size: 50px;
+    
+}
+.su{
+    text-align: center;
+}
+.ja{
+    width:25%;
+    text-align: center;
+    margin: -2px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.ku{
+    border-right: 1px solid red;
+
+}
+.j i{
+    font-size: 48px;
+    color: green;
+}
+.aj{
+    text-align: center;
+
+}
+.il{
+    text-align: center;
+    border: 1px solid;
+}
+.icon{
+    
+    position: absolute;
+    top:-22px;
+    left:50%;
+    padding:10px;
+    background-color: aliceblue;
+    
+}
+.il{
+    text-align: center;
+    font-size: 20px;
+    top:0px;
+    border: 1px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}

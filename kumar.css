@@ -1,0 +1,39 @@
+.a{
+    width:50%;
+    display: inline-block;
+    text-align: center;
+    margin:-2px;
+
+}
+.b{
+    width:10%;
+    display: inline-block;
+    text-align: right;
+    margin: -2px;
+}
+.x{
+    background-color: blue;
+    padding:20px;
+    position: sticky;
+    top:0px;
+    left:0px;
+}
+.b:hover{
+    color:red;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.c{
+    width:50%;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.d{
+    width:50%;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+}

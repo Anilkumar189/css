@@ -1,0 +1,114 @@
+body{
+    padding: 0px;
+    margin:0px;
+    
+}
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.a{
+    display: flex;
+}
+.zz img{
+    width:30%;
+    display: flex;
+    
+}
+.b{
+    width:50%;
+    display: flex;
+    justify-content: center;
+
+}
+.bb{
+    display: flex;
+    
+}
+.m{
+    margin-left: 20px;
+}
+.c{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.d{
+    
+    width:50%;
+    margin-top: 50px;
+    
+
+}
+.e{
+
+    width: 50%;
+    
+}
+.f{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.g{
+    width:40%; 
+}
+.h{
+    width:40%;
+
+}
+.i {
+    
+    width:20%;
+    
+
+
+}
+.o{
+    color:red;
+}
+.z{
+    padding:10px;
+    margin: 10px;
+    border: color(srgb red green blue);
+}
+.j{
+    display: flex;
+    padding: 20px;
+}
+.vee i {
+    font-size: 30px;
+    background-color: gray;border-radius: 50%;
+    padding: 10px;
+
+    
+    
+}
+.vee{
+    text-align: center;
+}
+.v3{
+    text-align: center;
+}
+.m3{
+    display: flex;
+}
+.n1{ 
+    width: 30%;
+    background-color: aqua;
+    align-items: center;
+
+
+
+}
+
+.v3{
+    width:70%;
+    display: flex;
+    background-color: blue;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
