@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Design</title>
+    <style>
+         
+   
+        #d1 {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 2px;
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            justify-content: center;
+        }
+        
+
+        .box {
+            border: 2px solid;
+            width: 300px;
+            height: 300px;
+            margin: 2px;
+            background-size: cover;
+            background-position: center;
+        }
+ 
+        #d2 {
+            background-image: url("https://www.coderus.com/wp-content/uploads/fly-images/996776/different-types-of-software-coderus-branded-image-576x9999.jpg");
+        }
+
+        #d3 {
+            background-image: url("https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg");
+        }
+
+        #d4 {
+            background-image: url("https://www.starkcloud.com/hubfs/Imported_Blog_Media/Desarrollo-de-Software.webp");
+        }
+
+        @media (max-width: 768px) {
+            .box {
+                width: 90%;
+                height: 200px;
+            }
+
+        }
+
+        @media (max-width: 480px) {
+            .box {
+                height: 150px;
+            }
+        }
+    </style>
+</head>
+<body>
+   
+    <div id="d1">
+        <div id="d2" class="box"></div>
+        <div id="d3" class="box"></div>
+        <div id="d4" class="box"></div>
+         
+    </div>
+</body>
+</html>

@@ -9,6 +9,7 @@
     width:10%;
     display: inline-block;
     text-align: right;
+    
     margin: -2px;
 }
 .x{
@@ -18,9 +19,9 @@
     top:0px;
     left:0px;
 }
-.b:hover{
-    color:red;
-}
+ .c:hover{
+      color:red;
+ }
 body{
     margin: 0px;
     padding: 0px;
@@ -32,8 +33,17 @@ body{
     box-sizing: border-box;
 }
 .d{
-    width:50%;
+    width:40%;
+    height: 80%;
+    
     text-align: center;
     display: inline-block;
     box-sizing: border-box;
+}
+.e{
+    color:red;
+}
+.z{
+    background-image: url(https://img.pikbest.com/origin/09/27/23/89QpIkbEsTerp.jpg!w700wp);
+    background-size:cover ;
 }
